@@ -1,0 +1,7 @@
+C:\Users\Nick\documents\visual studio 2010\Projects\FoundationCodeForFractalMountains\FoundationCodeForFractalMountains\bin\Release\FoundationCodeForFractalMountains.exe
+C:\Users\Nick\documents\visual studio 2010\Projects\FoundationCodeForFractalMountains\FoundationCodeForFractalMountains\bin\Release\FoundationCodeForFractalMountains.pdb
+C:\Users\Nick\documents\visual studio 2010\Projects\FoundationCodeForFractalMountains\FoundationCodeForFractalMountains\obj\x86\Release\FoundationCodeForFractalMountains.fractalMountainDemoForm.resources
+C:\Users\Nick\documents\visual studio 2010\Projects\FoundationCodeForFractalMountains\FoundationCodeForFractalMountains\obj\x86\Release\FoundationCodeForFractalMountains.Properties.Resources.resources
+C:\Users\Nick\documents\visual studio 2010\Projects\FoundationCodeForFractalMountains\FoundationCodeForFractalMountains\obj\x86\Release\FoundationCodeForFractalMountains.csproj.GenerateResource.Cache
+C:\Users\Nick\documents\visual studio 2010\Projects\FoundationCodeForFractalMountains\FoundationCodeForFractalMountains\obj\x86\Release\FoundationCodeForFractalMountains.exe
+C:\Users\Nick\documents\visual studio 2010\Projects\FoundationCodeForFractalMountains\FoundationCodeForFractalMountains\obj\x86\Release\FoundationCodeForFractalMountains.pdb
